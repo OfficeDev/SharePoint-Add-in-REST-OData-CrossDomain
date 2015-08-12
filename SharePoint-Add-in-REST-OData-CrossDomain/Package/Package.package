@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="38852964-80a1-4d61-9a6b-9947c1b6cdaa" solutionId="38852964-80a1-4d61-9a6b-9947c1b6cdaa" resetWebServer="false" sharePointProductVersion="15.0" name="SharePoint-Add-in-REST-OData-CrossDomain" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="bd566114-6253-42d1-8e47-04e9cc2dd814" />
+  </features>
+</package>
