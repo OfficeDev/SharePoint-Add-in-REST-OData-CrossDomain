@@ -1,4 +1,4 @@
-# Access SharePoint data with the Cross Domain JavaScript Library and the REST\OData endpoints#
+# Access SharePoint data with the Cross Domain JavaScript Library and the REST\OData endpoints
 
 ## Summary
 Use the SharePoint Cross Domain JavaScript library (CDL) and the SharePoint REST\OData endpoints to access SharePoint data from a remotely hosted web page without the need for OAuth tokens.
@@ -52,7 +52,7 @@ For troubleshooting steps, visit the "Troubleshooting the solution" table in the
 
 We'd love to get your feedback on this sample. You can send your questions and suggestions to us in the [Issues](https://github.com/OfficeDev/SharePoint_SP-hosted_Add-ins_Tutorials/issues) section of this repository.
 
-<a name="resources"/>
+
 ## Additional resources
 
 - [SharePoint Add-ins](https://msdn.microsoft.com/library/office/fp179930.aspx )
