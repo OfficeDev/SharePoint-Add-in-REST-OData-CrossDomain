@@ -1,3 +1,17 @@
+---
+topic: sample
+products:
+- SharePoint
+- Office 365
+languages:
+- JavaScript
+extensions:
+  contentType: samples
+  technologies:
+  - Add-ins
+  - OAuth 2.0
+  createdDate: 8/12/2015 3:31:39 PM
+---
 # Access SharePoint data with the Cross Domain JavaScript Library and the REST\OData endpoints
 
 ## Summary
