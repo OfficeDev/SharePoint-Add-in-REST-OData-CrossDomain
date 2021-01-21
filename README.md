@@ -14,6 +14,8 @@ extensions:
 ---
 # Access SharePoint data with the Cross Domain JavaScript Library and the REST\OData endpoints
 
+> SharePoint add-in model is considered as a legacy option for extending SharePoint user interface. Please see [SharePoint Framework documentation](https://aka.ms/spfx) and the [SharePoint Framework samples](https://aka.ms/spfx-webparts) for the future proven option to extend SharePoint Online. Possible backend services should be using Azure Active Directly based registration and related app models.
+
 ## Summary
 Use the SharePoint Cross Domain JavaScript library (CDL) and the SharePoint REST\OData endpoints to access SharePoint data from a remotely hosted web page without the need for OAuth tokens.
 
